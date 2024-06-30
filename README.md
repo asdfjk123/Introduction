@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minjae1134
+- 👋 Hi, I’m asdfjk123
 - 👀 I’m interested in backend and game programming
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on ...
