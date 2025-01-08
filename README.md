@@ -1,7 +1,7 @@
-- 👋 Hi, I’m asdfjk123
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Min-Jae Kim
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning various things
+- 💞️ I’m looking to collaborate on anyone
+- 📫 You can reach me at minjae20000514@gmail.com
 
 
